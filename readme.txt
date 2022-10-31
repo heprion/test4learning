@@ -6,3 +6,4 @@ git branch
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 Fast forward  --no-ff
+test for stash
